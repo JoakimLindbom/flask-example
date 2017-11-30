@@ -1,6 +1,8 @@
 Flask on OpenShift
 ==================
 
+NOTE: This repository is for openshift v2 only.  For a v3 python example, see: https://github.com/openshift/django-ex
+
 This git repository helps you get up and running quickly w/ a Flask installation
 on OpenShift.
 
