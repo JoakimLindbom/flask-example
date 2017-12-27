@@ -8,5 +8,5 @@ setup(
     author='Your Name',
     author_email='example@example.com',
     url='https://www.python.org/community/sigs/current/distutils-sig',
-    requires=['Flask>=0.7.2', 'MarkupSafe'], re
+    requires=['Flask>=0.7.2', 'MarkupSafe']
     )
